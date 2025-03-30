@@ -1,0 +1,3 @@
+/songs/*
+Access-Control-Allow-Origin: *
+content-Type: audio/mpeg
